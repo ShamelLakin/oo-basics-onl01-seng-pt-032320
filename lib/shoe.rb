@@ -39,4 +39,7 @@ class Shoe
   def condition
     @condition
   end 
+  
+  def
+  end
 end 
