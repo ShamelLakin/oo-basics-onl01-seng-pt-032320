@@ -40,6 +40,6 @@ class Shoe
     @condition
   end 
   
-  def
+  def cobble
   end
 end 
